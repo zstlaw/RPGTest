@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="22"
+   name=""
+   committed-date="2005-05-22T16:34:27.250000Z"
+   url="svn://localhost/RPGData/RPGTest/trunk/src/util"
+   last-author="zstlaw"
+   kind="dir"
+   uuid="2c54673d-8d8b-1f45-ba20-94d013f05683"
+   revision="27"/>
+<entry
+   committed-rev="28"
+   name="Dice.java"
+   text-time="2005-05-22T16:44:40.468750Z"
+   committed-date="2005-05-22T17:31:18.078125Z"
+   checksum="817f4d268266502c5b4e6dc60c9b2772"
+   last-author="zstlaw"
+   kind="file"
+   prop-time="2005-05-22T16:38:03.531250Z"
+   revision="28"/>
+<entry
+   committed-rev="22"
+   name="Population.java"
+   text-time="2005-05-22T16:38:03.546875Z"
+   committed-date="2005-05-22T16:34:27.250000Z"
+   checksum="231063376e7470a60a1ccebda0fb52e4"
+   last-author="zstlaw"
+   kind="file"
+   prop-time="2005-05-22T16:38:03.531250Z"/>
+</wc-entries>

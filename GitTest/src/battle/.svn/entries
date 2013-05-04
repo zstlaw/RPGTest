@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="26"
+   name=""
+   committed-date="2005-05-22T16:42:08.828125Z"
+   url="svn://localhost/RPGData/RPGTest/trunk/src/battle"
+   last-author="zstlaw"
+   kind="dir"
+   uuid="2c54673d-8d8b-1f45-ba20-94d013f05683"
+   revision="27"/>
+<entry
+   committed-rev="28"
+   name="Combatant.java"
+   text-time="2005-05-22T16:44:39.500000Z"
+   committed-date="2005-05-22T17:31:18.078125Z"
+   checksum="f4384b1fa31b99ef98caf66b3321d9ce"
+   last-author="zstlaw"
+   kind="file"
+   prop-time="2005-05-22T16:38:03.375000Z"
+   revision="28"/>
+<entry
+   committed-rev="28"
+   name="Fighter.java"
+   text-time="2005-05-22T16:45:05.515625Z"
+   committed-date="2005-05-22T17:31:18.078125Z"
+   checksum="f174af95fcb1b8d1725448d2252f840f"
+   last-author="zstlaw"
+   kind="file"
+   prop-time="2005-05-22T16:38:03.390625Z"
+   revision="28"/>
+<entry
+   committed-rev="26"
+   name="Battle.java"
+   text-time="2005-05-22T16:41:45.734375Z"
+   committed-date="2005-05-22T16:42:08.828125Z"
+   checksum="46f03b18b5416fa2ec4ab924fee3eb67"
+   last-author="zstlaw"
+   kind="file"/>
+<entry
+   committed-rev="28"
+   name="Group.java"
+   text-time="2005-05-22T16:44:37.875000Z"
+   committed-date="2005-05-22T17:31:18.078125Z"
+   checksum="32fa30b33fab2a25de3d03747547a94f"
+   last-author="zstlaw"
+   kind="file"
+   prop-time="2005-05-22T16:38:03.390625Z"
+   revision="28"/>
+</wc-entries>
